@@ -14,11 +14,11 @@
 
 **Γλώσσες προγραμματισμού:** Python, C, Java
 
-Επικοινωνία: thanosfourkiwtis@gmail.com
+Επικοινωνία: fourkiοtisthanos@gmail.com
 
 ---
 
-### Hi, I'm Athanasios
+### Hi, I'm Thanos
 
 Computer Science & Engineering undergraduate at the **University of Ioannina**.
 
@@ -34,4 +34,4 @@ to networks and machine learning.
 
 **Programming languages:** Python, C, Java
 
-Contact: thanosfourkiwtis@gmail.com
+Contact: fourkiotisthanos@gmail.com
