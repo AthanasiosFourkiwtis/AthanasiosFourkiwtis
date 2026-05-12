@@ -14,7 +14,7 @@
 
 **Γλώσσες προγραμματισμού:** Python, C, Java
 
-Επικοινωνία: fourkiοtisthanos@gmail.com
+Επικοινωνία: fourkiotisthanos@gmail.com
 
 ---
 
