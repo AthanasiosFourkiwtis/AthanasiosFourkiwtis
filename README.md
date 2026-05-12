@@ -3,7 +3,7 @@
 Προπτυχιακός φοιτητής Μηχανικών Η/Υ & Πληροφορικής στο **Πανεπιστήμιο Ιωαννίνων**.
 
 Μου αρέσει να υλοποιώ πράγματα από το μηδέν για να καταλαβαίνω πώς
-δουλεύουν τα συστήματα κάτω από τις βιβλιοθήκες — από δομές δεδομένων
+δουλεύουν τα συστήματα κάτω από τις βιβλιοθήκες από δομές δεδομένων
 και αλγόριθμους μέχρι δίκτυα και μηχανική μάθηση.
 
 **Τομείς ενδιαφέροντος:**
@@ -23,7 +23,7 @@
 Computer Science & Engineering undergraduate at the **University of Ioannina**.
 
 I enjoy building things from scratch to understand how systems actually
-work underneath the libraries — from data structures and algorithms
+work underneath the libraries from data structures and algorithms
 to networks and machine learning.
 
 **Areas of interest:**
